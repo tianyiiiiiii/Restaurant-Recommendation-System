@@ -1,0 +1,501 @@
+Restaurant,Similar_Restaurant,Item_CF_Score
+10 Downing Street,Hunger Maggi Point,0.23230111434813255
+10 Downing Street,Gal Punjab Di,0.1724118337239562
+10 Downing Street,Collage - Hyatt Hyderabad Gachibowli,0.13637560028681645
+10 Downing Street,Faasos,0.09668923092450453
+10 Downing Street,The Glass Onion,0.07567627853778185
+13 Dhaba,Delhi-39,0.15337100500385112
+13 Dhaba,Olive Garden,0.09499637573028039
+13 Dhaba,The Lal Street - Bar Exchange,0.08343902286380178
+13 Dhaba,Dine O China,0.07627795038254398
+13 Dhaba,Mazzo - Marriott Executive Apartments,0.06668064522603623
+"3B's - Buddies, Bar & Barbecue",Al Saba Restaurant,0.05175765688673985
+"3B's - Buddies, Bar & Barbecue",Behrouz Biryani,0.03961033017576204
+"3B's - Buddies, Bar & Barbecue",The Chocolate Room,0.030893858740439463
+"3B's - Buddies, Bar & Barbecue",Diners Pavilion,0.02503378881538437
+"3B's - Buddies, Bar & Barbecue",Mustang Terrace Lounge,0.01861993988678931
+AB's - Absolute Barbecues,The Glass Onion,0.0418359516534407
+AB's - Absolute Barbecues,Prism Club & Kitchen,0.028273485962995858
+AB's - Absolute Barbecues,Tiki Shack,0.026921599038276144
+AB's - Absolute Barbecues,Yum Yum Tree - The Arabian Food Court,0.026050587572863413
+AB's - Absolute Barbecues,Owm Nom Nom,0.022795577017856398
+Absolute Sizzlers,Ulavacharu,0.07843072973789436
+Absolute Sizzlers,KS Bakers,0.05644956658747156
+Absolute Sizzlers,Deli 9 Bistro,0.03897381158366396
+Absolute Sizzlers,Kritunga Restaurant,0.035970924003945394
+Absolute Sizzlers,Mathura Vilas,0.02856384640750126
+Al Saba Restaurant,Banana Leaf Multicuisine Restaurant,0.17082450692324572
+Al Saba Restaurant,Urban Asia - Kitchen & Bar,0.06852917390985615
+Al Saba Restaurant,Green Bawarchi Restaurant,0.05433850578678491
+Al Saba Restaurant,"3B's - Buddies, Bar & Barbecue",0.05175765688673985
+Al Saba Restaurant,Driven Cafe,0.04630790318083529
+American Wild Wings,Arena Eleven,0.28712376308494664
+American Wild Wings,Hyper Local,0.14417489607091438
+American Wild Wings,Zega - Sheraton Hyderabad Hotel,0.10859925533704748
+American Wild Wings,Prism Club & Kitchen,0.09088364376413081
+American Wild Wings,Biryanis And More,0.07299048832449533
+Amul,Hitech Bawarchi Food Zone,0.1497319536572607
+Amul,Tandoori Food Works,0.14279797162757252
+Amul,Olive Garden,0.1081081524960692
+Amul,Pista House,0.10772857998143438
+Amul,Barbeque Nation,0.09689198125060987
+Arena Eleven,American Wild Wings,0.28712376308494664
+Arena Eleven,Zega - Sheraton Hyderabad Hotel,0.13927840155017496
+Arena Eleven,Hyderabadi Daawat,0.11908727608467375
+Arena Eleven,Prism Club & Kitchen,0.11514795380222617
+Arena Eleven,Shah Ghouse Hotel & Restaurant,0.09194383211021917
+Aromas@11SIX,Shah Ghouse Spl Shawarma,0.1526241736717768
+Aromas@11SIX,Pakwaan Grand,0.07530086957533941
+Aromas@11SIX,Tempteys,0.042118269525638144
+Aromas@11SIX,Mathura Vilas,0.037447937507463704
+Aromas@11SIX,Being Hungry,0.034654618766408234
+Asian Meal Box,eat.fit,0.11310359390368348
+Asian Meal Box,Sardarji's Chaats & More,0.08207878587585152
+Asian Meal Box,KS Bakers,0.06912354385894413
+Asian Meal Box,The Chocolate Room,0.06626396102579313
+Asian Meal Box,GD's,0.051889057545232216
+B-Dubs,Mustang Terrace Lounge,0.11794392301826764
+B-Dubs,La La Land - Bar & Kitchen,0.03736001246635822
+B-Dubs,10 Downing Street,0.02969461106581872
+B-Dubs,SKYHY,0.02861052242095372
+B-Dubs,Shree Santosh Dhaba Family Restaurant,0.020604662950431143
+Banana Leaf Multicuisine Restaurant,Al Saba Restaurant,0.17082450692324572
+Banana Leaf Multicuisine Restaurant,Owm Nom Nom,0.0953056463735263
+Banana Leaf Multicuisine Restaurant,Being Hungry,0.07882798094502129
+Banana Leaf Multicuisine Restaurant,Urban Asia - Kitchen & Bar,0.07386730951912691
+Banana Leaf Multicuisine Restaurant,Khaan Saab,0.0664482945075319
+Barbeque Nation,Tempteys,0.1379888791679055
+Barbeque Nation,Hitech Bawarchi Food Zone,0.11672772497178513
+Barbeque Nation,Tandoori Food Works,0.11532468237934568
+Barbeque Nation,Karachi Bakery,0.11111793314241634
+Barbeque Nation,Amul,0.09689198125060987
+Behrouz Biryani,Marsala Food Company,0.12966884510940627
+Behrouz Biryani,PourHouse7,0.09574350060850548
+Behrouz Biryani,T Grill,0.09233276239724433
+Behrouz Biryani,Pot Pourri,0.059072316060826205
+Behrouz Biryani,Kritunga Restaurant,0.059007925963953725
+Being Hungry,Banana Leaf Multicuisine Restaurant,0.07882798094502129
+Being Hungry,Hunger Maggi Point,0.07556482287717178
+Being Hungry,Cream Stone,0.07427100996438625
+Being Hungry,The Chocolate Room,0.0659642101860295
+Being Hungry,Gal Punjab Di,0.06021034561408631
+Beyond Flavours,Tempteys,0.21368794220922285
+Beyond Flavours,Prism Club & Kitchen,0.21231416913950016
+Beyond Flavours,Komatose - Holiday Inn Express & Suites,0.15823567074135345
+Beyond Flavours,Momos Delight,0.05158630254322565
+Beyond Flavours,The Indi Grill,0.05116607520837347
+Biryanis And More,Hyderabadi Daawat,0.37439447152683947
+Biryanis And More,Marsala Food Company,0.3108905341390299
+Biryanis And More,American Wild Wings,0.07299048832449533
+Biryanis And More,PourHouse7,0.06666159084058466
+Biryanis And More,Domino's Pizza,0.0428098456252115
+Cafe Eclat,The Glass Onion,0.14895404867097187
+Cafe Eclat,Deli 9 Bistro,0.10490682293622428
+Cafe Eclat,Zing's Northeast Kitchen,0.09801212788142113
+Cafe Eclat,Domino's Pizza,0.0897870196884463
+Cafe Eclat,Pista House,0.08501254940726176
+Cascade - Radisson Hyderabad Hitec City,Owm Nom Nom,0.04493141813337846
+Cascade - Radisson Hyderabad Hitec City,Olive Garden,0.042158572552896685
+Cascade - Radisson Hyderabad Hitec City,American Wild Wings,0.04182047242107332
+Cascade - Radisson Hyderabad Hitec City,Collage - Hyatt Hyderabad Gachibowli,0.03826539883429293
+Cascade - Radisson Hyderabad Hitec City,Chinese Pavilion,0.03412231569970743
+Chinese Pavilion,Jonathan's Kitchen - Holiday Inn Express & Suites,0.06547018467034622
+Chinese Pavilion,American Wild Wings,0.06312797095930653
+Chinese Pavilion,Tempteys,0.05419945503345018
+Chinese Pavilion,Collage - Hyatt Hyderabad Gachibowli,0.043166613193445405
+Chinese Pavilion,Arena Eleven,0.040744379141267204
+Club Rogue,KFC,0.08206352127030939
+Club Rogue,KS Bakers,0.04815437383763147
+Club Rogue,10 Downing Street,0.04245812249768351
+Club Rogue,Gal Punjab Di,0.04232672663397082
+Club Rogue,Prism Club & Kitchen,0.04092513991988135
+Collage - Hyatt Hyderabad Gachibowli,Gal Punjab Di,0.15958054671600708
+Collage - Hyatt Hyderabad Gachibowli,10 Downing Street,0.13637560028681645
+Collage - Hyatt Hyderabad Gachibowli,Hunger Maggi Point,0.11537628740580416
+Collage - Hyatt Hyderabad Gachibowli,Karachi Cafe,0.098724822125491
+Collage - Hyatt Hyderabad Gachibowli,Chinese Pavilion,0.043166613193445405
+Cream Stone,Triptify,0.14250309265016653
+Cream Stone,Jonathan's Kitchen - Holiday Inn Express & Suites,0.1344008312243947
+Cream Stone,Faasos,0.13375375064176268
+Cream Stone,Sardarji's Chaats & More,0.10985946778961665
+Cream Stone,Deli 9 Bistro,0.09355794395388681
+Delhi-39,13 Dhaba,0.15337100500385112
+Delhi-39,The Lal Street - Bar Exchange,0.07345590613213686
+Delhi-39,Karachi Bakery,0.06733639457308375
+Delhi-39,Dine O China,0.062447072962935585
+Delhi-39,NorFest - The Dhaba,0.05405800267439455
+Deli 9 Bistro,Sardarji's Chaats & More,0.10968300412756862
+Deli 9 Bistro,Cafe Eclat,0.10490682293622428
+Deli 9 Bistro,Pista House,0.09957558969588635
+Deli 9 Bistro,Ulavacharu,0.09909415162935307
+Deli 9 Bistro,Faasos,0.09659428969193688
+Desi Bytes,Urban Asia - Kitchen & Bar,0.1394308740185162
+Desi Bytes,Mazzo - Marriott Executive Apartments,0.11153048944968127
+Desi Bytes,Zing's Northeast Kitchen,0.10452594306701435
+Desi Bytes,Delhi-39,0.05245258884864438
+Desi Bytes,Cafe Eclat,0.039580632015431105
+Dine O China,13 Dhaba,0.07627795038254398
+Dine O China,Delhi-39,0.062447072962935585
+Dine O China,Behrouz Biryani,0.04428441781541547
+Dine O China,KFC,0.04252862843380056
+Dine O China,Domino's Pizza,0.037224107787201866
+Diners Pavilion,Mathura Vilas,0.09037374579899078
+Diners Pavilion,Olive Garden,0.08082735297246907
+Diners Pavilion,Amul,0.08080242056160078
+Diners Pavilion,Tandoori Food Works,0.07508918300966623
+Diners Pavilion,Hitech Bawarchi Food Zone,0.07401511616771426
+Domino's Pizza,Pista House,0.16347860078801182
+Domino's Pizza,Karachi Cafe,0.0985465261309488
+Domino's Pizza,Deli 9 Bistro,0.09353334169156761
+Domino's Pizza,Cafe Eclat,0.0897870196884463
+Domino's Pizza,The Fisherman's Wharf,0.07455013155673643
+Driven Cafe,Karachi Bakery,0.0912330965714781
+Driven Cafe,The Chocolate Room,0.06527876716140749
+Driven Cafe,GD's,0.06320708172593112
+Driven Cafe,eat.fit,0.06257956822355636
+Driven Cafe,Tempteys,0.05647850629167632
+Dunkin' Donuts,Labonel,0.09639225245919411
+Dunkin' Donuts,NorFest - The Dhaba,0.07692250188876217
+Dunkin' Donuts,T Grill,0.0702708311183664
+Dunkin' Donuts,The Glass Onion,0.0674385139244504
+Dunkin' Donuts,KS Bakers,0.053639197822987664
+Eat India Company,Karachi Bakery,0.14965141072531654
+Eat India Company,Triptify,0.13584246777838851
+Eat India Company,Mazzo - Marriott Executive Apartments,0.12965396871093526
+Eat India Company,The Chocolate Room,0.0927196354035045
+Eat India Company,Ulavacharu,0.08483314767324096
+Faasos,Sardarji's Chaats & More,0.1712233945527328
+Faasos,Cream Stone,0.13375375064176268
+Faasos,Hunger Maggi Point,0.12315578792420036
+Faasos,10 Downing Street,0.09668923092450453
+Faasos,Deli 9 Bistro,0.09659428969193688
+Feast - Sheraton Hyderabad Hotel,Olive Garden,0.08164111721988399
+Feast - Sheraton Hyderabad Hotel,Arena Eleven,0.06518793772050287
+Feast - Sheraton Hyderabad Hotel,Pista House,0.0642304543124689
+Feast - Sheraton Hyderabad Hotel,Marsala Food Company,0.04901832951339442
+Feast - Sheraton Hyderabad Hotel,Faasos,0.04562541961226004
+Flechazo,Karachi Cafe,0.11435153051014897
+Flechazo,10 Downing Street,0.06622735504944968
+Flechazo,Olive Garden,0.047541803353594966
+Flechazo,Club Rogue,0.038353077423907284
+Flechazo,Tiki Shack,0.029680819879340403
+Frio Bistro,Urban Asia - Kitchen & Bar,0.058550987892475995
+Frio Bistro,Ulavacharu,0.05605668488172773
+Frio Bistro,Eat India Company,0.051809705616654045
+Frio Bistro,Deli 9 Bistro,0.04304745431281179
+Frio Bistro,Tandoori Food Works,0.04256948745823876
+GD's,Tiki Shack,0.18552850194596265
+GD's,Driven Cafe,0.06320708172593112
+GD's,Behrouz Biryani,0.05596848812039904
+GD's,T Grill,0.05557757823205025
+GD's,KS Bakers,0.053277073108098094
+Gal Punjab Di,10 Downing Street,0.1724118337239562
+Gal Punjab Di,Collage - Hyatt Hyderabad Gachibowli,0.15958054671600708
+Gal Punjab Di,Hunger Maggi Point,0.14963779734594101
+Gal Punjab Di,Kritunga Restaurant,0.1289412308410925
+Gal Punjab Di,Shanghai Chef 2,0.08978545741376295
+Green Bawarchi Restaurant,Hitech Bawarchi Food Zone,0.24888289579694542
+Green Bawarchi Restaurant,Shah Ghouse Spl Shawarma,0.2156348297538846
+Green Bawarchi Restaurant,Hunger Maggi Point,0.17017200844699232
+Green Bawarchi Restaurant,Udipi's Upahar,0.1097540126996856
+Green Bawarchi Restaurant,KFC,0.09496167899368721
+Hitech Bawarchi Food Zone,Green Bawarchi Restaurant,0.24888289579694542
+Hitech Bawarchi Food Zone,Pista House,0.17274824483112106
+Hitech Bawarchi Food Zone,Tandoori Food Works,0.17203159790446687
+Hitech Bawarchi Food Zone,Amul,0.1497319536572607
+Hitech Bawarchi Food Zone,Shah Ghouse Spl Shawarma,0.14479021961500335
+Hotel Zara Hi-Fi,Asian Meal Box,0.04678741672013126
+Hotel Zara Hi-Fi,Shah Ghouse Spl Shawarma,0.04413990653167494
+Hotel Zara Hi-Fi,Pakwaan Grand,0.04224443162689596
+Hotel Zara Hi-Fi,Green Bawarchi Restaurant,0.02088185158106739
+Hotel Zara Hi-Fi,The Foodie Monster Kitchen,0.019448131189366783
+Hunger Maggi Point,Udipi's Upahar,0.30699356565816305
+Hunger Maggi Point,Shah Ghouse Spl Shawarma,0.23974582468399616
+Hunger Maggi Point,10 Downing Street,0.23230111434813255
+Hunger Maggi Point,Green Bawarchi Restaurant,0.17017200844699232
+Hunger Maggi Point,Gal Punjab Di,0.14963779734594101
+Hyderabad Chefs,Owm Nom Nom,0.07594816302768674
+Hyderabad Chefs,Paradise,0.030098070069213074
+Hyderabad Chefs,Kritunga Restaurant,0.02715399805799664
+Hyderabad Chefs,Banana Leaf Multicuisine Restaurant,0.026049287098569514
+Hyderabad Chefs,Marsala Food Company,0.02268367853718123
+Hyderabadi Daawat,Biryanis And More,0.37439447152683947
+Hyderabadi Daawat,Marsala Food Company,0.24903181868065474
+Hyderabadi Daawat,Arena Eleven,0.11908727608467375
+Hyderabadi Daawat,The Tilt Bar Republic,0.09369922042557771
+Hyderabadi Daawat,Sardarji's Chaats & More,0.07126317740714949
+Hyper Local,American Wild Wings,0.14417489607091438
+Hyper Local,Zega - Sheraton Hyderabad Hotel,0.06810521330041412
+Hyper Local,Prism Club & Kitchen,0.05544851550934447
+Hyper Local,Arena Eleven,0.03950785660144346
+Hyper Local,Hyderabadi Daawat,0.023000444286909196
+Jonathan's Kitchen - Holiday Inn Express & Suites,Cream Stone,0.1344008312243947
+Jonathan's Kitchen - Holiday Inn Express & Suites,Chinese Pavilion,0.06547018467034622
+Jonathan's Kitchen - Holiday Inn Express & Suites,Biryanis And More,0.04158961850315344
+Jonathan's Kitchen - Holiday Inn Express & Suites,Being Hungry,0.04145679669421975
+Jonathan's Kitchen - Holiday Inn Express & Suites,Marsala Food Company,0.031281421868042586
+KFC,Green Bawarchi Restaurant,0.09496167899368721
+KFC,Club Rogue,0.08206352127030939
+KFC,Domino's Pizza,0.06827575886363231
+KFC,Hitech Bawarchi Food Zone,0.06376299400332718
+KFC,Mustang Terrace Lounge,0.06202416148110999
+KS Bakers,Triptify,0.10092967422263754
+KS Bakers,Gal Punjab Di,0.07671836976207345
+KS Bakers,The Foodie Monster Kitchen,0.07299122659704355
+KS Bakers,Asian Meal Box,0.06912354385894413
+KS Bakers,Udipi's Upahar,0.06172912284144674
+Karachi Bakery,Udipi's Upahar,0.21932738970432689
+Karachi Bakery,The Chocolate Room,0.19453648264142204
+Karachi Bakery,Eat India Company,0.14965141072531654
+Karachi Bakery,Shah Ghouse Spl Shawarma,0.1138036486843811
+Karachi Bakery,Hunger Maggi Point,0.11270548473568548
+Karachi Cafe,Khaan Saab,0.25694357412388263
+Karachi Cafe,Flechazo,0.11435153051014897
+Karachi Cafe,Collage - Hyatt Hyderabad Gachibowli,0.098724822125491
+Karachi Cafe,Domino's Pizza,0.0985465261309488
+Karachi Cafe,Pista House,0.0933511761541911
+Khaan Saab,Karachi Cafe,0.25694357412388263
+Khaan Saab,Owm Nom Nom,0.07859102635455026
+Khaan Saab,Yum Yum Tree - The Arabian Food Court,0.07762908200754953
+Khaan Saab,Banana Leaf Multicuisine Restaurant,0.0664482945075319
+Khaan Saab,Tandoori Food Works,0.045353398908311304
+Komatose - Holiday Inn Express & Suites,Tempteys,0.18981263312027555
+Komatose - Holiday Inn Express & Suites,Momos Delight,0.1591504920458099
+Komatose - Holiday Inn Express & Suites,Beyond Flavours,0.15823567074135345
+Komatose - Holiday Inn Express & Suites,Prism Club & Kitchen,0.14455155887235221
+Komatose - Holiday Inn Express & Suites,Zing's Northeast Kitchen,0.136349491750602
+Kritunga Restaurant,Pakwaan Grand,0.22669700682407065
+Kritunga Restaurant,Royal Spicy Restaurant,0.13533837171615162
+Kritunga Restaurant,Gal Punjab Di,0.1289412308410925
+Kritunga Restaurant,Shah Ghouse Spl Shawarma,0.11818386390436852
+Kritunga Restaurant,Behrouz Biryani,0.059007925963953725
+La La Land - Bar & Kitchen,Mustang Terrace Lounge,0.11152404155592821
+La La Land - Bar & Kitchen,The Chocolate Room,0.09267563575904539
+La La Land - Bar & Kitchen,10 Downing Street,0.059319804768940256
+La La Land - Bar & Kitchen,Beyond Flavours,0.04590757663591657
+La La Land - Bar & Kitchen,Momos Delight,0.03754696290592397
+Labonel,Dunkin' Donuts,0.09639225245919411
+Labonel,Karachi Bakery,0.08324546772446503
+Labonel,The Chocolate Room,0.05963589429554757
+Labonel,Urban Asia - Kitchen & Bar,0.052561598530189706
+Labonel,Eat India Company,0.046275692597785995
+Marsala Food Company,PourHouse7,0.31926391020487194
+Marsala Food Company,Biryanis And More,0.3108905341390299
+Marsala Food Company,Hyderabadi Daawat,0.24903181868065474
+Marsala Food Company,Behrouz Biryani,0.12966884510940627
+Marsala Food Company,Feast - Sheraton Hyderabad Hotel,0.04901832951339442
+Mathura Vilas,Ulavacharu,0.10083306828601793
+Mathura Vilas,Yum Yum Tree - The Arabian Food Court,0.09114477777013509
+Mathura Vilas,Diners Pavilion,0.09037374579899078
+Mathura Vilas,T Grill,0.0703944011991968
+Mathura Vilas,Pakwaan Grand,0.0624481447476539
+Mazzo - Marriott Executive Apartments,Triptify,0.18487826831688867
+Mazzo - Marriott Executive Apartments,Eat India Company,0.12965396871093526
+Mazzo - Marriott Executive Apartments,Desi Bytes,0.11153048944968127
+Mazzo - Marriott Executive Apartments,13 Dhaba,0.06668064522603623
+Mazzo - Marriott Executive Apartments,Faasos,0.0606942991384897
+Mohammedia Shawarma,The Foodie Monster Kitchen,0.015648420620538304
+Mohammedia Shawarma,Hotel Zara Hi-Fi,0.015181265781116296
+Mohammedia Shawarma,Royal Spicy Restaurant,0.014044974371925204
+Mohammedia Shawarma,Momos Delight,0.0120246263535275
+Mohammedia Shawarma,eat.fit,0.009240780162946593
+Momos Delight,Zing's Northeast Kitchen,0.21855444811542768
+Momos Delight,Komatose - Holiday Inn Express & Suites,0.1591504920458099
+Momos Delight,Karachi Cafe,0.05508945944337369
+Momos Delight,Beyond Flavours,0.05158630254322565
+Momos Delight,Sardarji's Chaats & More,0.03768009931677753
+Mustang Terrace Lounge,B-Dubs,0.11794392301826764
+Mustang Terrace Lounge,La La Land - Bar & Kitchen,0.11152404155592821
+Mustang Terrace Lounge,SKYHY,0.07319002624375809
+Mustang Terrace Lounge,KFC,0.06202416148110999
+Mustang Terrace Lounge,Diners Pavilion,0.06047916966291747
+NorFest - The Dhaba,Dunkin' Donuts,0.07692250188876217
+NorFest - The Dhaba,Triptify,0.06307567469396513
+NorFest - The Dhaba,Prism Club & Kitchen,0.05880666610182633
+NorFest - The Dhaba,Delhi-39,0.05405800267439455
+NorFest - The Dhaba,Gal Punjab Di,0.04843242448525193
+Olive Garden,Hitech Bawarchi Food Zone,0.11600732296224904
+Olive Garden,Tandoori Food Works,0.10956883308115915
+Olive Garden,Amul,0.1081081524960692
+Olive Garden,13 Dhaba,0.09499637573028039
+Olive Garden,Pista House,0.08188738939992983
+Over The Moon Brew Company,Triptify,0.07006787299017543
+Over The Moon Brew Company,Hunger Maggi Point,0.04797680916967192
+Over The Moon Brew Company,Karachi Bakery,0.03782269806738379
+Over The Moon Brew Company,Amul,0.03676229445467148
+Over The Moon Brew Company,Gal Punjab Di,0.02125653394633728
+Owm Nom Nom,Banana Leaf Multicuisine Restaurant,0.0953056463735263
+Owm Nom Nom,Tempteys,0.09447738936596978
+Owm Nom Nom,Khaan Saab,0.07859102635455026
+Owm Nom Nom,Hyderabad Chefs,0.07594816302768674
+Owm Nom Nom,Diners Pavilion,0.05918831161895409
+Pakwaan Grand,Kritunga Restaurant,0.22669700682407065
+Pakwaan Grand,Shah Ghouse Spl Shawarma,0.1283075307588331
+Pakwaan Grand,Royal Spicy Restaurant,0.09636816083851922
+Pakwaan Grand,Ulavacharu,0.07732511830216665
+Pakwaan Grand,Gal Punjab Di,0.0761471153906393
+Paradise,Hyderabad Chefs,0.030098070069213074
+Paradise,Eat India Company,0.016643957852523216
+Paradise,Owm Nom Nom,0.0160984776659424
+Paradise,SKYHY,0.014062422339553701
+Paradise,Amul,0.011200290953231152
+Pista House,Hitech Bawarchi Food Zone,0.17274824483112106
+Pista House,Domino's Pizza,0.16347860078801182
+Pista House,Tandoori Food Works,0.12261560917706393
+Pista House,Amul,0.10772857998143438
+Pista House,Deli 9 Bistro,0.09957558969588635
+Pot Pourri,eat.fit,0.14743833646145918
+Pot Pourri,Tiki Shack,0.06377149095313883
+Pot Pourri,Behrouz Biryani,0.059072316060826205
+Pot Pourri,Sardarji's Chaats & More,0.04258200461151766
+Pot Pourri,Marsala Food Company,0.04016947450826079
+PourHouse7,Marsala Food Company,0.31926391020487194
+PourHouse7,Behrouz Biryani,0.09574350060850548
+PourHouse7,Biryanis And More,0.06666159084058466
+PourHouse7,Tiki Shack,0.05787405614118974
+PourHouse7,The Glass Onion,0.052878754078861806
+Prism Club & Kitchen,Beyond Flavours,0.21231416913950016
+Prism Club & Kitchen,Zega - Sheraton Hyderabad Hotel,0.19992374763733553
+Prism Club & Kitchen,Tempteys,0.16468653506395498
+Prism Club & Kitchen,Komatose - Holiday Inn Express & Suites,0.14455155887235221
+Prism Club & Kitchen,Arena Eleven,0.11514795380222617
+Royal Spicy Restaurant,Kritunga Restaurant,0.13533837171615162
+Royal Spicy Restaurant,Pakwaan Grand,0.09636816083851922
+Royal Spicy Restaurant,eat.fit,0.07184375447185554
+Royal Spicy Restaurant,Hunger Maggi Point,0.062344280955032805
+Royal Spicy Restaurant,Being Hungry,0.04983145573457789
+SKYHY,Deli 9 Bistro,0.07778425206092289
+SKYHY,Mustang Terrace Lounge,0.07319002624375809
+SKYHY,GD's,0.051239109889650344
+SKYHY,Barbeque Nation,0.04717985950737229
+SKYHY,Gal Punjab Di,0.04325686789513522
+Sardarji's Chaats & More,Faasos,0.1712233945527328
+Sardarji's Chaats & More,Yum Yum Tree - The Arabian Food Court,0.11959339719454037
+Sardarji's Chaats & More,Cream Stone,0.10985946778961665
+Sardarji's Chaats & More,Deli 9 Bistro,0.10968300412756862
+Sardarji's Chaats & More,Urban Asia - Kitchen & Bar,0.09818545570217034
+Shah Ghouse Hotel & Restaurant,The Fisherman's Wharf,0.29232814149195563
+Shah Ghouse Hotel & Restaurant,Arena Eleven,0.09194383211021917
+Shah Ghouse Hotel & Restaurant,Banana Leaf Multicuisine Restaurant,0.04065010765627447
+Shah Ghouse Hotel & Restaurant,SKYHY,0.023363062835401842
+Shah Ghouse Hotel & Restaurant,Gal Punjab Di,0.02063963119077604
+Shah Ghouse Spl Shawarma,Udipi's Upahar,0.3101619906356611
+Shah Ghouse Spl Shawarma,Hunger Maggi Point,0.23974582468399616
+Shah Ghouse Spl Shawarma,Green Bawarchi Restaurant,0.2156348297538846
+Shah Ghouse Spl Shawarma,Aromas@11SIX,0.1526241736717768
+Shah Ghouse Spl Shawarma,Hitech Bawarchi Food Zone,0.14479021961500335
+Shanghai Chef 2,Gal Punjab Di,0.08978545741376295
+Shanghai Chef 2,Pista House,0.07042881619308898
+Shanghai Chef 2,Komatose - Holiday Inn Express & Suites,0.061697732604212775
+Shanghai Chef 2,Barbeque Nation,0.059465909571587
+Shanghai Chef 2,T Grill,0.05635988046125096
+Shree Santosh Dhaba Family Restaurant,Hitech Bawarchi Food Zone,0.09150232841319571
+Shree Santosh Dhaba Family Restaurant,Delhi-39,0.04348980602306385
+Shree Santosh Dhaba Family Restaurant,Behrouz Biryani,0.040869787970224766
+Shree Santosh Dhaba Family Restaurant,Sardarji's Chaats & More,0.03838946495379184
+Shree Santosh Dhaba Family Restaurant,Faasos,0.03335945872783241
+Squeeze @ The Lime,Amul,0.0870844357529429
+Squeeze @ The Lime,The Fisherman's Wharf,0.06627881003828444
+Squeeze @ The Lime,Hunger Maggi Point,0.06369807625360743
+Squeeze @ The Lime,10 Downing Street,0.03132466132485387
+Squeeze @ The Lime,Tempteys,0.026386117577165247
+T Grill,Ulavacharu,0.09631470339429926
+T Grill,Behrouz Biryani,0.09233276239724433
+T Grill,Green Bawarchi Restaurant,0.07343075391786551
+T Grill,Mathura Vilas,0.0703944011991968
+T Grill,Dunkin' Donuts,0.0702708311183664
+Tandoori Food Works,Hitech Bawarchi Food Zone,0.17203159790446687
+Tandoori Food Works,Amul,0.14279797162757252
+Tandoori Food Works,Pista House,0.12261560917706393
+Tandoori Food Works,Barbeque Nation,0.11532468237934568
+Tandoori Food Works,Olive Garden,0.10956883308115915
+Tempteys,Beyond Flavours,0.21368794220922285
+Tempteys,Komatose - Holiday Inn Express & Suites,0.18981263312027555
+Tempteys,Prism Club & Kitchen,0.16468653506395498
+Tempteys,Barbeque Nation,0.1379888791679055
+Tempteys,Owm Nom Nom,0.09447738936596978
+The Chocolate Room,Karachi Bakery,0.19453648264142204
+The Chocolate Room,The Foodie Monster Kitchen,0.15244053165390095
+The Chocolate Room,Eat India Company,0.0927196354035045
+The Chocolate Room,La La Land - Bar & Kitchen,0.09267563575904539
+The Chocolate Room,Barbeque Nation,0.08599633441963538
+The Fisherman's Wharf,Shah Ghouse Hotel & Restaurant,0.29232814149195563
+The Fisherman's Wharf,Amul,0.07679925307606553
+The Fisherman's Wharf,Domino's Pizza,0.07455013155673643
+The Fisherman's Wharf,Squeeze @ The Lime,0.06627881003828444
+The Fisherman's Wharf,Yum Yum Tree - The Arabian Food Court,0.06622008737427994
+The Foodie Monster Kitchen,The Chocolate Room,0.15244053165390095
+The Foodie Monster Kitchen,Udipi's Upahar,0.07851846537277449
+The Foodie Monster Kitchen,KS Bakers,0.07299122659704355
+The Foodie Monster Kitchen,Gal Punjab Di,0.07023896970634726
+The Foodie Monster Kitchen,Ulavacharu,0.05364036680000908
+The Glass Onion,Cafe Eclat,0.14895404867097187
+The Glass Onion,The Tilt Bar Republic,0.14266762589898171
+The Glass Onion,Hunger Maggi Point,0.11729680640671268
+The Glass Onion,10 Downing Street,0.07567627853778185
+The Glass Onion,Tiki Shack,0.07389098676353979
+The Indi Grill,Eat India Company,0.06365518475769881
+The Indi Grill,Beyond Flavours,0.05116607520837347
+The Indi Grill,Zing's Northeast Kitchen,0.04497800264435446
+The Indi Grill,Arena Eleven,0.03958250793918563
+The Indi Grill,Marsala Food Company,0.034222262921571274
+The Lal Street - Bar Exchange,13 Dhaba,0.08343902286380178
+The Lal Street - Bar Exchange,Yum Yum Tree - The Arabian Food Court,0.08286959363648595
+The Lal Street - Bar Exchange,Delhi-39,0.07345590613213686
+The Lal Street - Bar Exchange,Urban Asia - Kitchen & Bar,0.07258325797527607
+The Lal Street - Bar Exchange,T Grill,0.0673564641836384
+The Old Madras Baking Company,Karachi Bakery,0.08383505993378637
+The Old Madras Baking Company,Cafe Eclat,0.0704686244297296
+The Old Madras Baking Company,The Chocolate Room,0.06716571234600185
+The Old Madras Baking Company,10 Downing Street,0.05482415503520295
+The Old Madras Baking Company,Eat India Company,0.05429604481389398
+The Tilt Bar Republic,The Glass Onion,0.14266762589898171
+The Tilt Bar Republic,Hyderabadi Daawat,0.09369922042557771
+The Tilt Bar Republic,Cafe Eclat,0.06980228203028226
+The Tilt Bar Republic,Banana Leaf Multicuisine Restaurant,0.059168001785210374
+The Tilt Bar Republic,Feast - Sheraton Hyderabad Hotel,0.03452790164918476
+Tiki Shack,GD's,0.18552850194596265
+Tiki Shack,The Glass Onion,0.07389098676353979
+Tiki Shack,Prism Club & Kitchen,0.07189307743166792
+Tiki Shack,Pot Pourri,0.06377149095313883
+Tiki Shack,PourHouse7,0.05787405614118974
+Triptify,Mazzo - Marriott Executive Apartments,0.18487826831688867
+Triptify,Cream Stone,0.14250309265016653
+Triptify,Eat India Company,0.13584246777838851
+Triptify,KS Bakers,0.10092967422263754
+Triptify,Karachi Bakery,0.09573262129237693
+Udipi's Upahar,Shah Ghouse Spl Shawarma,0.3101619906356611
+Udipi's Upahar,Hunger Maggi Point,0.30699356565816305
+Udipi's Upahar,Karachi Bakery,0.21932738970432689
+Udipi's Upahar,Green Bawarchi Restaurant,0.1097540126996856
+Udipi's Upahar,The Foodie Monster Kitchen,0.07851846537277449
+Ulavacharu,Mathura Vilas,0.10083306828601793
+Ulavacharu,Deli 9 Bistro,0.09909415162935307
+Ulavacharu,T Grill,0.09631470339429926
+Ulavacharu,Eat India Company,0.08483314767324096
+Ulavacharu,Yum Yum Tree - The Arabian Food Court,0.0813622378197761
+Urban Asia - Kitchen & Bar,Yum Yum Tree - The Arabian Food Court,0.1509133139468258
+Urban Asia - Kitchen & Bar,Desi Bytes,0.1394308740185162
+Urban Asia - Kitchen & Bar,Sardarji's Chaats & More,0.09818545570217034
+Urban Asia - Kitchen & Bar,Banana Leaf Multicuisine Restaurant,0.07386730951912691
+Urban Asia - Kitchen & Bar,The Lal Street - Bar Exchange,0.07258325797527607
+Yum Yum Tree - The Arabian Food Court,Urban Asia - Kitchen & Bar,0.1509133139468258
+Yum Yum Tree - The Arabian Food Court,Sardarji's Chaats & More,0.11959339719454037
+Yum Yum Tree - The Arabian Food Court,Mathura Vilas,0.09114477777013509
+Yum Yum Tree - The Arabian Food Court,The Lal Street - Bar Exchange,0.08286959363648595
+Yum Yum Tree - The Arabian Food Court,Barbeque Nation,0.08258818764466835
+Zega - Sheraton Hyderabad Hotel,Prism Club & Kitchen,0.19992374763733553
+Zega - Sheraton Hyderabad Hotel,Arena Eleven,0.13927840155017496
+Zega - Sheraton Hyderabad Hotel,American Wild Wings,0.10859925533704748
+Zega - Sheraton Hyderabad Hotel,Hyper Local,0.06810521330041412
+Zega - Sheraton Hyderabad Hotel,Feast - Sheraton Hyderabad Hotel,0.034659540609169724
+Zing's Northeast Kitchen,Momos Delight,0.21855444811542768
+Zing's Northeast Kitchen,Komatose - Holiday Inn Express & Suites,0.136349491750602
+Zing's Northeast Kitchen,Desi Bytes,0.10452594306701435
+Zing's Northeast Kitchen,Cafe Eclat,0.09801212788142113
+Zing's Northeast Kitchen,Urban Asia - Kitchen & Bar,0.0661560785185037
+eat.fit,Pot Pourri,0.14743833646145918
+eat.fit,Asian Meal Box,0.11310359390368348
+eat.fit,Royal Spicy Restaurant,0.07184375447185554
+eat.fit,Driven Cafe,0.06257956822355636
+eat.fit,KS Bakers,0.05877440377555582
