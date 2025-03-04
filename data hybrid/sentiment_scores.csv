@@ -4,8 +4,8 @@ Restaurant,Sentiment_Score
 "3B's - Buddies, Bar & Barbecue",0.94
 AB's - Absolute Barbecues,0.98
 Absolute Sizzlers,0.68
-Al Saba Restaurant,0.59
-American Wild Wings,0.83
+Al Saba Restaurant,0.55
+American Wild Wings,0.84
 Amul,0.75
 Arena Eleven,0.9
 Aromas@11SIX,0.67
@@ -18,19 +18,19 @@ Being Hungry,0.68
 Beyond Flavours,0.84
 Biryanis And More,0.77
 Cafe Eclat,0.79
-Cascade - Radisson Hyderabad Hitec City,0.91
-Chinese Pavilion,0.84
+Cascade - Radisson Hyderabad Hitec City,0.86
+Chinese Pavilion,0.76
 Club Rogue,0.55
-Collage - Hyatt Hyderabad Gachibowli,0.69
-Cream Stone,0.77
-Delhi-39,0.49
+Collage - Hyatt Hyderabad Gachibowli,0.68
+Cream Stone,0.76
+Delhi-39,0.48
 Deli 9 Bistro,0.79
 Desi Bytes,0.51
 Dine O China,0.6
 Diners Pavilion,0.67
 Domino's Pizza,0.51
 Driven Cafe,0.88
-Dunkin' Donuts,0.61
+Dunkin' Donuts,0.54
 Eat India Company,0.65
 Faasos,0.58
 Feast - Sheraton Hyderabad Hotel,0.85
@@ -47,14 +47,14 @@ Hyderabadi Daawat,0.77
 Hyper Local,0.74
 Jonathan's Kitchen - Holiday Inn Express & Suites,0.72
 KFC,0.49
-KS Bakers,0.85
+KS Bakers,0.77
 Karachi Bakery,0.77
 Karachi Cafe,0.78
 Khaan Saab,0.76
-Komatose - Holiday Inn Express & Suites,0.72
+Komatose - Holiday Inn Express & Suites,0.71
 Kritunga Restaurant,0.65
 La La Land - Bar & Kitchen,0.68
-Labonel,0.82
+Labonel,0.74
 Marsala Food Company,0.67
 Mathura Vilas,0.56
 Mazzo - Marriott Executive Apartments,0.89
@@ -79,7 +79,7 @@ Shah Ghouse Spl Shawarma,0.64
 Shanghai Chef 2,0.61
 Shree Santosh Dhaba Family Restaurant,0.47
 Squeeze @ The Lime,0.77
-T Grill,0.63
+T Grill,0.6
 Tandoori Food Works,0.61
 Tempteys,0.78
 The Chocolate Room,0.5
